@@ -1,0 +1,23 @@
+type: marketplace
+title: Introduction to Python
+language: English
+summary: "Master Python fundamentals with no prior experience. Learn by coding in\
+  \ a professional IDE—stress-free, hands-on, and broken into well-structured lessons\
+  \ for smooth, beginner-friendly progress."
+vendor:
+  name: jderpak
+programming_language: Python
+environment: unittest
+content:
+  - Introduction
+  - Variables
+tags:
+  - Beginner-friendly
+additional_files:
+  - name: LICENSE
+  - name: README.md
+  - name: contributing.md
+  - name: requirements.txt
+  - name: getting_started_variables.zip
+    is_binary: true
+yaml_version: 6
